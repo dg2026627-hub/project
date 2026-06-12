@@ -49,3 +49,4 @@ while True :
         a.axis.y += 0.1
     if ' ' in k :
         ball.pos = ball.pos + a.axis * 0.01
+https://www.glowscript.org/#/user/dg2026627/folder/MyPrograms/program/%EC%88%98%ED%96%89
